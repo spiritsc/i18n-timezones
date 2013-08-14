@@ -1,7 +1,7 @@
 pl:
   timezones:
     "American Samoa": "Samoa Amerykańskie" # -11:00
-    "International Date Line West": "International Datumsgrenze" # -11:00
+    "International Date Line West": "Zachodnia międzynarodowa linia zmiany czasu" # -11:00
     "Midway Island": "Wyspa Midway" # -11:00
     "Hawaii": "Hawaje" # -10:00
     "Alaska": "Alaska" # -09:00
@@ -59,7 +59,7 @@ pl:
     "Stockholm": "Sztokholm" # +01:00
     "Vienna": "Wiedeń" # +01:00
     "Warsaw": "Warszawa" # +01:00
-    "West Central Africa": "Westzentralafrika" # +01:00
+    "West Central Africa": "Zachodnio Środkowa Afryka" # +01:00
     "Zagreb": "Zagrzeb" # +01:00
     "Athens": "Ateny" # +02:00
     "Bucharest": "Bukareszt" # +02:00
